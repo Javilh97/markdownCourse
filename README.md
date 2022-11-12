@@ -24,7 +24,7 @@ this is an ~~strikethrough~~ text
 2. watermelon
 3. cucumber
 
-[faztweb.com](https://www.faztweb.com "custom title")
+[github.com](https://github.com/Javilh97 "my profile")
 <!-- cita -->
 > this is a quote
 
@@ -48,6 +48,8 @@ for (let i = 0; i <= 5; i++) {
 
 <!-- Github Markdown -->
 * [x] Task 1
-* [] Task 2
-* [] Task 3
-* [] Task 4
+* [x] Task 2
+* [ ] Task 3
+* [ ] Task 4
+
+@Javilh97 :grin: :computer: :video_game:
