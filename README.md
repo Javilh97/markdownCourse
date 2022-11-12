@@ -50,7 +50,7 @@ for (let i = 0; i <= 5; i++) {
 | col 2 is      | centered      | $12   |
 
 <!-- agregar imagenes -->
-![Visual Studio Code Logo](./vscode.png "vscode logo")
+![Visual Studio Code Logo|300](./vscode.png "vscode logo")
 
 <!-- elementos propios de Github Markdown -->
 <!-- to do -->
