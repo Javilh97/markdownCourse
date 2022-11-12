@@ -24,6 +24,7 @@ this is an ~~strikethrough~~ text
 2. watermelon
 3. cucumber
 
+<!-- Colocar enlaces -->
 [github.com](https://github.com/Javilh97 "my profile")
 <!-- cita -->
 > this is a quote
@@ -32,6 +33,8 @@ this is an ~~strikethrough~~ text
 ---
 ___
 
+<!-- Agregar codigo -->
+
 `console.log('Hello word')`
 
 ```javascript 
@@ -39,17 +42,24 @@ for (let i = 0; i <= 5; i++) {
     console.log("Hello word");
 }
 ```
+
+<!-- agregar tablas -->
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      | $12   |
 
+<!-- agregar imagenes -->
 ![Visual Studio Code Logo](./vscode.png "vscode logo")
 
-<!-- Github Markdown -->
+<!-- elementos propios de Github Markdown -->
+<!-- to do -->
 * [x] Task 1
 * [x] Task 2
 * [ ] Task 3
 * [ ] Task 4
 
-@Javilh97 :grin: :computer: :video_game:
+<!-- Etiquetar usuarios -->
+@Javilh97 
+<!-- Agregar emojis -->
+:grin: :computer: :video_game:
